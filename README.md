@@ -5,4 +5,7 @@ The second project at Metis focused on using web scraping techniques and buildin
 
 ---  
 
+`Project_Notebooks` contains the five notebooks for this project.  
+Data was scraped from rogerebert.com and downloaded from [here](https://grouplens.org/datasets/movielens/), under "Recommended for new research".   
+The blog post can be found [here](https://zachheick.github.io/Predicting-Movie-Ratings-by-Roger-Ebert/).
 
