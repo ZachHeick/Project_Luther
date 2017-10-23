@@ -6,6 +6,12 @@ The second project at Metis focused on using web scraping techniques and buildin
 ---  
 
 `Project_Notebooks` contains the five notebooks for this project.  
+  * `Project_Luther_Scraping_Ebert_Data.ipynb`  
+  * `Project_Luther_Cleaning_Ebert_Data.ipynb`  
+  * `Project_Luther_Scraping_Other_Data.ipynb`  
+  * `Project_Luther_EDA.ipynb`  
+  * `Project_Luther_Models.ipynb`  
+  
 Data was scraped from rogerebert.com and downloaded from [here](https://grouplens.org/datasets/movielens/), under "Recommended for new research".   
-The blog post can be found [here](https://zachheick.github.io/Predicting-Movie-Ratings-by-Roger-Ebert/).
+The blog post can be found [here](https://zachheick.github.io/2017/10/06/Predicting-Movie-Ratings-by-Roger-Ebert/).
 
