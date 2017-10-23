@@ -6,7 +6,7 @@ The second project at Metis focused on using web scraping techniques and buildin
 ---  
 
 `Project_Notebooks` contains the five notebooks for this project.  
-Order of events:    
+  
   1. `Project_Luther_Scraping_Ebert_Data.ipynb`   
   2. `Project_Luther_Cleaning_Ebert_Data.ipynb`  
   3. `Project_Luther_Scraping_Other_Data.ipynb`  
