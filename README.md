@@ -5,8 +5,8 @@ The second project at Metis focused on using web scraping techniques and buildin
 
 ---  
 
-`Project_Notebooks` contains the five notebooks for this project.  
-  * `Project_Luther_Scraping_Ebert_Data.ipynb`  
+`Project_Notebooks` contains the five notebooks for this project (in order).  
+  * `Project_Luther_Scraping_Ebert_Data.ipynb`   
   * `Project_Luther_Cleaning_Ebert_Data.ipynb`  
   * `Project_Luther_Scraping_Other_Data.ipynb`  
   * `Project_Luther_EDA.ipynb`  
