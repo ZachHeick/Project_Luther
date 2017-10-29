@@ -12,6 +12,8 @@ The second project at Metis focused on using web scraping techniques and buildin
   3. `Project_Luther_Scraping_Other_Data.ipynb`  
   4. `Project_Luther_EDA.ipynb`  
   5. `Project_Luther_Models.ipynb`  
+
+`Project_Data` contains pickle files created from notebooks.  
   
 Data was scraped from rogerebert.com and downloaded from [here](https://grouplens.org/datasets/movielens/), under "Recommended for new research".   
 The blog post can be found [here](https://zachheick.github.io/2017/10/06/Predicting-Movie-Ratings-by-Roger-Ebert/).
